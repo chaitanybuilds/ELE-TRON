@@ -3,7 +3,7 @@
 </p>
 
 > [!TIP]
-> **This is the official ELE-TRON repository: [github.com/aefxcharlie/ELE-TRON](https://github.com/aefxcharlie/ELE-TRON).** If you find the same project anywhere else, it may contain malware. Please always verify the source before downloading or running anything.
+> **This is the official ELE-TRON repository: [github.com/aefxcharlie/ELE-TRON](https://github.com/chaitanybuilds/ELE-TRON).** If you find the same project anywhere else, it may contain malware. Please always verify the source before downloading or running anything.
 
 # ELE-TRON
 
