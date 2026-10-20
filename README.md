@@ -11,7 +11,7 @@
 
 A lightweight, glass-style launcher that starts with Windows and opens your saved workspaces (Chrome profiles, Discord, Steam, WhatsApp, Telegram, any app, file, folder or link) automatically, along with a clean dashboard for notes, quick links and your own screen-time activity.
 
-Hi, I'm **Chaitany**, also known as **aefxcharlie** on the internet. I built ELE-TRON as a small, fast, fully local startup launcher: no cloud, no accounts, no background AI, just a tidy panel that sets up your PC the way you left it.
+Hi, I'm **Chaitany**, also known as **chaitanybuilds** on the internet. I built ELE-TRON as a small, fast, fully local startup launcher: no cloud, no accounts, no background AI, just a tidy panel that sets up your PC the way you left it.
 
 **ELE-TRON is open source. Enjoy!**
 
@@ -37,7 +37,7 @@ Hi, I'm **Chaitany**, also known as **aefxcharlie** on the internet. I built ELE
 
 ## v1.1.0 vs v1.2.0
 
-Comparison between [v1.1.0](https://github.com/aefxcharlie/ELE-TRON/releases/tag/v1.1.0) and [v1.2.0](https://github.com/aefxcharlie/ELE-TRON/releases/tag/v1.2.0) (this version).
+Comparison between [v1.1.0](https://github.com/chaitanybuilds/ELE-TRON/releases/tag/v1.1.0) and [v1.2.0](https://github.com/chaitanybuilds/ELE-TRON/releases/tag/v1.2.0) (this version).
 
 | | v1.1.0 | v1.2.0 |
 |---|---|---|
@@ -81,7 +81,7 @@ When installing Python, tick **"Add python.exe to PATH"** in the installer.
 ## Quick start (run from source)
 
 ```
-git clone https://github.com/aefxcharlie/ELE-TRON.git
+git clone https://github.com/chaitanybuilds/ELE-TRON.git
 cd ELE-TRON
 pip install -r requirements.txt
 python main.pyw
@@ -238,7 +238,7 @@ Released under the **MIT License**. See [LICENSE.md](LICENSE.md). You are free t
 
 ## Author
 
-**Chaitany** (aefxcharlie)
-GitHub: [github.com/aefxcharlie](https://github.com/aefxcharlie)
+**Chaitany** (chaitanybuilds)
+GitHub: [github.com/chaitanybuilds](https://github.com/chaitanybuilds)
 
 If ELE-TRON helps you, a star on the repo is appreciated. Enjoy!
